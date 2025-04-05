@@ -46,7 +46,7 @@ Feel free to fork the project and submit pull requests. For major changes, pleas
 
 ## Credits
 
-Made by: Pretz and WIP
+Made by Cel
 
 ## Disclaimer
 

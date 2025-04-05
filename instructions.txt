@@ -42,4 +42,4 @@ If keys aren't working:
 - Try increasing the delay
 - Restart the program if needed
 
-Made by: Pretz and WIP 
+Made by Cel 
