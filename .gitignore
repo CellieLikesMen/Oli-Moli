@@ -1,0 +1,29 @@
+# Build artifacts
+*.o
+*.exe
+*.res
+*.obj
+
+# Debug files
+*.log
+*.pdb
+*.ilk
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Release folders
+Macro Manager all stable releases/
+
+# Python conversion script
+convert_icon.py
+
+# Temporary files
+*.tmp 
