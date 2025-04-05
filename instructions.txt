@@ -1,0 +1,45 @@
+HOW TO USE OLI MOLI
+=================
+
+1. CHINESE WALK
+--------------
+This feature continuously presses the 'W' key for you.
+
+Setup:
+- Type your trigger key in the "Trigger Key" box (default is 'C')
+- Use the slider to set the delay between key presses (30-50ms recommended)
+
+How to use:
+- Press your trigger key once to start Chinese Walk
+- The toggle button will turn black when it's running
+- Press the trigger key again to stop
+- The program will keep pressing 'W' until you turn it off
+
+2. QUICK SWITCH
+--------------
+This feature helps with weapon switching by pressing 'Q'.
+
+Setup:
+- Type your trigger key in the "Trigger Key" box
+- Adjust the delay if needed
+
+How it works:
+- If you set 'Q' as the trigger: Pressing Q will tap Q once
+- If you use a different trigger key: Pressing it will tap Q twice
+
+IMPORTANT TIPS
+-------------
+1. Always run the program as administrator
+2. The window stays on top unless minimized
+3. You can show/hide the debug console from the View menu
+4. Both features can be used at the same time
+5. Changes to settings take effect immediately
+
+TROUBLESHOOTING
+--------------
+If keys aren't working:
+- Make sure you're running as administrator
+- Try increasing the delay
+- Restart the program if needed
+
+Made by: Pretz and WIP 
